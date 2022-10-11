@@ -12,3 +12,4 @@ How to initialize/run your application?
 * install requirment.txt using `pip install -r requirement.txt`
 
 How do you run tests? pytest -s
+# [pull request link](https://github.com/Lujain92/madlib-cli/pull/2)
