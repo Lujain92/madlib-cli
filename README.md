@@ -1,19 +1,14 @@
-LAB - Class xx
-Project: Project Name Here
-Author: Student/Group Name
-Links and Resources
-Link01
-Link02
-Setup
-.env requirements (where applicable)
-i.e.
+# LAB - Class 04
+### Project: Madlib-cli
+### Author: Lujain aljarrah
+## Description
 
-PORT - Port Number
-DATABASE_URL - URL to the running Postgres instance/db
-How to initialize/run your application (where applicable)
-e.g. python main.py
-How to use your library (where applicable)
-Tests
-How do you run tests?
-Any tests of note?
-Describe any tests that you did not complete, skipped, etc
+**madlib is a word game where one player prompts another for a list of words to substitute for blanks in a story; these word substitutions have a humorous effect when the resulting story is then read aloud.**
+
+
+
+How to initialize/run your application?
+* python madlib_cli/madlib.py
+* install requirment.txt using `pip install -r requirement.txt`
+
+How do you run tests? pytest -s
